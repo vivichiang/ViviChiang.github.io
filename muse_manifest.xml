@@ -1,0 +1,170 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.thedefrostedgallery.com" resolutions="1x,2x" timestamp="1556762160732">
+  <folder name="css">
+    <file name="site_global.css" crc="25059682"/>
+    <file name="master_a-master.css" crc="3982672427" ref="index"/>
+    <file name="index.css" crc="3930663993" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="the-defrosted-gallery-favicon.ico" crc="4217056962" ref="index"/>
+    <file name="dsc05369 加灰.jpg" crc="4228380978" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc05369 加灰_2x.jpg" crc="444279073" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-1375812x144.svg" crc="140333545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 1375812x144_poster_.png" crc="22887771" ref="index"/>
+    <file name="pasted-svg-986097x172.svg" crc="4057118428" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 986097x172_poster_.png" crc="4027159147" ref="index"/>
+    <file name="pasted-svg-519691x149.svg" crc="294776485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 519691x149_poster_.png" crc="382989368" ref="index"/>
+    <file name="pasted-svg-385436x60.svg" crc="4281899214" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 385436x60_poster_.png" crc="3831118165" ref="index"/>
+    <file name="pasted-svg-689558x252.svg" crc="3959572277" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 689558x252_poster_.png" crc="92706888" ref="index"/>
+    <file name="pasted-svg-14976x149.svg" crc="4158217717" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 14976x149_poster_.png" crc="4074718875" ref="index"/>
+    <file name="pasted-svg-648881x60.svg" crc="54942891" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 648881x60_poster_.png" crc="240179928" ref="index"/>
+    <file name="pasted-svg-662569x386.svg" crc="32967989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 662569x386_poster_.png" crc="325141740" ref="index"/>
+    <file name="pasted-svg-148559x148.svg" crc="4166121223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 148559x148_poster_.png" crc="4131190927" ref="index"/>
+    <file name="pasted-svg-734349x149.svg" crc="391754554" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 734349x149_poster_.png" crc="6047675" ref="index"/>
+    <file name="pasted-svg-657717x333.svg" crc="253275033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 657717x333_poster_.png" crc="10725821" ref="index"/>
+    <file name="pasted-svg-155993x155.svg" crc="4256028776" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 155993x155_poster_.png" crc="282508134" ref="index"/>
+    <file name="pasted-svg-629357x132.svg" crc="4283084884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 629357x132_poster_.png" crc="4112823498" ref="index"/>
+    <file name="pasted-svg-729448x333.svg" crc="80862712" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 729448x333_poster_.png" crc="403531071" ref="index"/>
+    <file name="畫框gif.gif" crc="343725502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="畫框gif_2x.gif" crc="343725502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc05398 加灰.jpg" crc="3784293853" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc05398 加灰_2x.jpg" crc="3841121167" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-163633x163.svg" crc="3953312473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 163633x163_poster_.png" crc="3849864221" ref="index"/>
+    <file name="pasted-svg-666042x149.svg" crc="182254288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 666042x149_poster_.png" crc="4248383911" ref="index"/>
+    <file name="pasted-svg-726435x462.svg" crc="21562663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 726435x462_poster_.png" crc="4024973733" ref="index"/>
+    <file name="pasted-svg-163633x1632.svg" crc="399915725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 163633x163_poster_2.png" crc="430247583" ref="index"/>
+    <file name="pasted-svg-868436x60.svg" crc="354511073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 868436x60_poster_.png" crc="4220300686" ref="index"/>
+    <file name="pasted-svg-269241x144.svg" crc="3825404544" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 269241x144_poster_.png" crc="3923855935" ref="index"/>
+    <file name="le-reve-gif-.gif" crc="3977868413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="le-reve-gif-_2x.gif" crc="3977868413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-63282x144.svg" crc="3854089348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 63282x144_poster_.png" crc="44852527" ref="index"/>
+    <file name="girl-with-pearl-gif.gif" crc="3969890558" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girl-with-pearl-gif_2x.gif" crc="3969890558" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-417333x144.svg" crc="4166555764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 417333x144_poster_.png" crc="3772232952" ref="index"/>
+    <file name="the-son-of-man-gif.gif" crc="409141815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the-son-of-man-gif_2x.gif" crc="409141815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-247352x238.svg" crc="453998187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 247352x238_poster_.png" crc="3897902302" ref="index"/>
+    <file name="the-kiss-gif.gif" crc="489431878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="the-kiss-gif_2x.gif" crc="489431878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="手跟筆.jpg" crc="177678776" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-163633x1633.svg" crc="103097092" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 163633x163_poster_3.png" crc="3799227017" ref="index"/>
+    <file name="pasted-svg-616538x149.svg" crc="4117641712" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 616538x149_poster_.png" crc="3840362396" ref="index"/>
+    <file name="pasted-svg-783787x494.svg" crc="529122032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 783787x494_poster_.png" crc="4159716310" ref="index"/>
+  </folder>
+  <file name="index.html" crc="195552297" seo="true" mt="1556762148803" redirect="true"/>
+</manifest>
